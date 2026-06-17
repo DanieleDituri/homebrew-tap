@@ -1,8 +1,8 @@
 cask "countdownapp" do
-  version "0.3.2"
-  sha256 "d3d4d192074d8ccb3feacb20ca3bf67ce64ae97622188b05339f8aec1a61adcd"
+  version "0.3.3"
+  sha256 "0a7deb66b1b4a2ca9dc5ed75f1f361c551e4bc2aa0d41e31f166653c6ce6eb5d"
 
-  url "https://github.com/DanieleDituri/countdown_app/releases/download/v0.3.2/CountdownApp.dmg"
+  url "https://github.com/DanieleDituri/countdown_app/releases/download/v0.3.3/CountdownApp.dmg"
   name "CountdownApp"
   desc "Countdown timer for your events with menu bar and desktop widgets"
   homepage "https://github.com/DanieleDituri/countdown_app"
